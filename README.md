@@ -1,9 +1,7 @@
  [![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/edgi-govdata-archiving/overview/blob/main/CONDUCT.md)
 
-# Template
-Based on the EDGI Repo Guidelines at https://github.com/edgi-govdata-archiving/overview/blob/main/repo_guidelines.md
-
-This repo is a template for all EDGI templates. Replace this paragraph with a description of the repo.
+# GHG emission by company
+...
 
 # How to start contributing to this repo
 * Instructions go here
